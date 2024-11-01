@@ -1,0 +1,3 @@
+Sreamlit
+Plotly
+Pandas
